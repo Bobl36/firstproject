@@ -1,0 +1,1 @@
+1.This is a traning project for work with GIT
